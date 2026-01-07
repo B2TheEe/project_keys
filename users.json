@@ -1,0 +1,28 @@
+{
+  "tb": {
+    "type": "user",
+    "name": "tb",
+    "roles": [
+      "studenten"
+    ],
+    "password_scheme": "pbkdf2",
+    "pbkdf2_prf": "sha256",
+    "salt": "9c3db162de3daa1d9124b09ffecac6df",
+    "iterations": 100000,
+    "derived_key": "7b3c821656cc093a57c43364c6948a2290fe847366db053021db01ffe3fed51b",
+    "encrypted_note": null
+  },
+  "tilly": {
+    "type": "user",
+    "name": "tilly",
+    "roles": [
+      "studenten"
+    ],
+    "password_scheme": "pbkdf2",
+    "pbkdf2_prf": "sha256",
+    "salt": "fa50590f0ba1a49797660d35567cdc29",
+    "iterations": 100000,
+    "derived_key": "3beee126bd928f76850bd41d13321f0e1d9d1ccfcd485662d24a6a0ba7ba23a7",
+    "encrypted_note": null
+  }
+}
